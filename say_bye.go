@@ -3,5 +3,5 @@ package say_bye
 import "fmt"
 
 func SayBye() {
-	fmt.Println("BYE DINGUSI")
+	fmt.Println("BYE YOU DINGUSI")
 }
